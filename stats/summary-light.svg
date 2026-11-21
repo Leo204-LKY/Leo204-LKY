@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="816" height="206" viewBox="0 0 816 206" role="img" aria-label="Coding Overview · AI Coding">
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans','PingFang SC','Microsoft YaHei',Helvetica,Arial,sans-serif;fill:#1f2328}
+.muted{fill:#59636e} .s11{font-size:11px} .s12{font-size:12px} .s13{font-size:13px}
+.title{font-size:15px;font-weight:600} .big{font-size:22px;font-weight:600}
+</style>
+<rect x="0.5" y="0.5" width="815" height="205" rx="6" fill="#ffffff" stroke="#d0d7de"/>
+
+<g transform="translate(0 0)"><text x="24" y="34" class="title">Coding Overview</text><text x="376" y="34" text-anchor="end" class="muted s12">Since 2022-10</text>
+<text x="24" y="96" class="big" style="font-size:32px">1,728 h</text>
+<text x="24" y="118" class="s12 muted">Total coding time</text>
+<rect x="208.0" y="108.0" width="7.7" height="2.0" rx="2" fill="#0969da" fill-opacity="0.55"/>
+<rect x="218.7" y="108.0" width="7.7" height="2.0" rx="2" fill="#0969da" fill-opacity="0.55"/>
+<rect x="229.4" y="108.0" width="7.7" height="2.0" rx="2" fill="#0969da" fill-opacity="0.55"/>
+<rect x="240.1" y="108.0" width="7.7" height="2.0" rx="2" fill="#0969da" fill-opacity="0.55"/>
+<rect x="250.8" y="102.8" width="7.7" height="7.2" rx="2" fill="#0969da" fill-opacity="0.55"/>
+<rect x="261.4" y="105.7" width="7.7" height="4.3" rx="2" fill="#0969da" fill-opacity="0.55"/>
+<rect x="272.1" y="106.0" width="7.7" height="4.0" rx="2" fill="#0969da" fill-opacity="0.55"/>
+<rect x="282.8" y="108.0" width="7.7" height="2.0" rx="2" fill="#0969da" fill-opacity="0.55"/>
+<rect x="293.5" y="101.6" width="7.7" height="8.4" rx="2" fill="#0969da" fill-opacity="0.55"/>
+<rect x="304.2" y="102.0" width="7.7" height="8.0" rx="2" fill="#0969da" fill-opacity="0.55"/>
+<rect x="314.9" y="97.6" width="7.7" height="12.4" rx="2" fill="#0969da" fill-opacity="0.55"/>
+<rect x="325.6" y="108.0" width="7.7" height="2.0" rx="2" fill="#0969da" fill-opacity="0.55"/>
+<rect x="336.2" y="92.1" width="7.7" height="17.9" rx="2" fill="#0969da" fill-opacity="0.55"/>
+<rect x="346.9" y="97.2" width="7.7" height="12.8" rx="2" fill="#0969da" fill-opacity="0.55"/>
+<rect x="357.6" y="54.0" width="7.7" height="56.0" rx="2" fill="#0969da" fill-opacity="0.55"/>
+<rect x="368.3" y="56.1" width="7.7" height="53.9" rx="2" fill="#0969da" fill-opacity="1"/>
+<text x="376" y="126" text-anchor="end" class="s11 muted">Last 16 weeks</text>
+<line x1="24" x2="376" y1="142.5" y2="142.5" stroke="#d0d7de"/>
+<text x="24" y="172" class="big" style="font-size:16px">634</text><text x="24" y="191" class="s12 muted">Active days</text>
+<text x="112" y="172" class="big" style="font-size:16px">2.7 h</text><text x="112" y="191" class="s12 muted">Daily avg</text>
+<text x="200" y="172" class="big" style="font-size:16px">13.9 h</text><text x="200" y="191" class="s12 muted">Best day</text>
+<text x="288" y="172" class="big" style="font-size:16px">27</text><text x="288" y="191" class="s12 muted">Languages</text></g>
+<line x1="408.5" x2="408.5" y1="20" y2="186" stroke="#d0d7de"/>
+<g transform="translate(416 0)"><text x="24" y="34" class="title">AI Coding</text><text x="376" y="34" text-anchor="end" class="muted s12">Since 2026-08</text>
+<text x="24" y="96" class="big" style="font-size:32px">2.1B</text>
+<text x="24" y="118" class="s12 muted">AI tokens</text>
+<polygon points="208,110 208.0,110.0 219.2,110.0 230.4,109.8 241.6,109.6 252.8,108.8 264.0,107.4 275.2,108.0 286.4,109.8 297.6,109.0 308.8,104.3 320.0,70.6 331.2,58.3 342.4,103.7 353.6,96.0 364.8,54.0 376.0,76.6 376,110" fill="#8250df" fill-opacity="0.15"/><polyline points="208.0,110.0 219.2,110.0 230.4,109.8 241.6,109.6 252.8,108.8 264.0,107.4 275.2,108.0 286.4,109.8 297.6,109.0 308.8,104.3 320.0,70.6 331.2,58.3 342.4,103.7 353.6,96.0 364.8,54.0 376.0,76.6" fill="none" stroke="#8250df" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/><circle cx="376.0" cy="76.6" r="3" fill="#8250df"/>
+<text x="376" y="126" text-anchor="end" class="s11 muted">Last 16 weeks</text>
+<line x1="24" x2="376" y1="142.5" y2="142.5" stroke="#d0d7de"/>
+<text x="24" y="172" class="big" style="font-size:16px">15,624</text><text x="24" y="191" class="s12 muted">Messages</text>
+<text x="112" y="172" class="big" style="font-size:16px">58</text><text x="112" y="191" class="s12 muted">Active days</text>
+<text x="200" y="172" class="big" style="font-size:16px">10.2M</text><text x="200" y="191" class="s12 muted">Output</text>
+<text x="288" y="172" class="big" style="font-size:16px">94%</text><text x="288" y="191" class="s12 muted">Cache hit</text></g>
+</svg>
